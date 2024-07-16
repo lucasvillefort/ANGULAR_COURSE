@@ -6,3 +6,4 @@
 6 - ng serve
 7 - npm start
 8 - npm install -> it will install all dependence that we need
+9 - ng generate component <component-name>
