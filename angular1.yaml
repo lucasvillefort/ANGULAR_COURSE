@@ -5,3 +5,4 @@
 5 - npm install --save rxjs-compat
 6 - ng serve
 7 - npm start
+8 - npm install -> it will install all dependence that we need
