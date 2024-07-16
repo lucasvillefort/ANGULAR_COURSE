@@ -1,7 +1,9 @@
 <div>
   <button>
-    <img src="#" alt="" />
-    <span>NAME</span>
+    <!-- when we user values outside of here we need to use []
+          it is called Property Binding -->
+    <img [src]="'users/' + selectUser.avatar" [alt]="selectUser.name" />
+    <span>{{selectUser.name}}</span>
 
   </button>
 </div>
