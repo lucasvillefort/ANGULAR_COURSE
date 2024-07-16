@@ -1,0 +1,5 @@
+1 - sudo npm install -g @angur/cli
+2 - ng new <project-name>
+3 - npm start
+4 - npm install --save rxjs@6
+5 - npm install --save rxjs-compat
