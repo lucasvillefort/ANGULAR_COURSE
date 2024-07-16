@@ -7,8 +7,5 @@
 7 - npm start
 8 - npm install -> it will install all dependence that we need
 9 - ng generate component <component-name>
-10 - chance it into the following: at angular.json
-    "assets": [
-              "src/favicon.ico",
-              "src/assets"
-            ]
+10 - all photos and imge are in public folder
+11 - when i create a component I need to import it into the app.component
