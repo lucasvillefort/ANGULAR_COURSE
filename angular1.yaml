@@ -3,3 +3,5 @@
 3 - npm start
 4 - npm install --save rxjs@6
 5 - npm install --save rxjs-compat
+6 - ng serve
+7 - npm start
